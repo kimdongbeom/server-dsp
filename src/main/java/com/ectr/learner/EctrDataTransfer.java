@@ -7,4 +7,8 @@ public class EctrDataTransfer {
         System.out.println("double array convert to object");
         return new Object();
     }
+
+    public void loadData() {
+        System.out.println("load data");
+    }
 }
