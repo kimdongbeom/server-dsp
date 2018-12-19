@@ -7,4 +7,8 @@ public class EctrPredictor {
         double ectrResult = 0.003;
         return ectrResult;
     }
+
+    public String getData() {
+        return "hello subtree!!!";
+    }
 }
